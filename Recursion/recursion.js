@@ -227,4 +227,3 @@ var ans = createDropdown(list);
 var order = ordering(ans);
 window.order = order;
 console.log(order);
-
