@@ -1,4 +1,6 @@
-/* Object Literals
+/* 
+Part 1
+Object Literals 
 =====================*/
 
 var myModule = {
